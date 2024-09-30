@@ -1,0 +1,344 @@
+.donet-section{
+    text-align: center;
+    padding: 5%;
+    background-image: url(images/sec.png);
+}
+.first-section{
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+}
+h1{
+    font-size: 45px;
+    color: #fff;
+}
+.smaler{
+    color: #fff;
+}
+.first-donate-btn {
+    padding: 10px 15px;
+    background-color: #f01d47;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight:600;
+
+}
+.donate-today-container{
+    text-align: center;
+    display: block;
+    unicode-bidi: isolate;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: gray;
+    display: block;
+    margin-block-start: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-block-end: 1em;
+}
+.donate-taka{
+    background-color: #eee7e8;
+    border-radius: 3px;
+    text-align: center;
+    height: 48px;
+    width: 170px;
+    padding-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 7px;
+}
+user agent stylesheet h3 {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+.donate-taka-div {
+    display: flex;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.donate-taka-red {
+    background-color: #f1b9b9;
+    border: 2px solid crimson;
+    border-radius: 3px;
+    color: #ff2600;
+    text-align: center;
+    height: 48px;
+    width: 150px;
+    padding-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 7px;
+}
+
+user agent stylesheet h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.other-amount{
+    text-decoration: none;
+    color: gray;
+    border: none;
+    height: 25px;
+    width: 200px;
+    outline: none;
+}
+.other-amount-div {
+    text-align: center;
+    color: gray;
+}
+
+.first-donate-btn a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+.thart-section{
+margin-top: 100px;
+text-align: center;
+}
+.plaing-contaner{
+            display: flex;
+            padding-left: 5%;
+            
+        }
+    
+        user agent stylesheet div {
+            display: block;
+            unicode-bidi: isolate;
+        }
+    
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+            
+}
+.plaing-one{
+            text-align: left;
+            background-color: #9ff0e85b;
+            border-radius: 5px;
+            padding-left: 2%;
+            margin-right: 3%;
+            height: 350px;
+            margin-bottom: 100px;
+            
+        }
+    
+        user agent stylesheet div {
+            display: block;
+            unicode-bidi: isolate;
+        }
+    
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+        }
+        .plaing-two{
+         text-align: left;
+         background-color: #f1b9b9;
+         border-radius: 5px;
+         padding-left: 2%;
+         margin-right: 3%;
+         height: 350px;
+         margin-bottom: 100px;
+            }
+            
+            user agent stylesheet div {
+                display: block;
+                unicode-bidi: isolate;
+            }
+            
+            body {
+             font-family: 'Poppins', sans-serif;
+             margin: 0%;
+        }
+        .plaing-three{
+            text-align: left;
+                background-color: #ecf19e;
+                border-radius: 5px;
+                padding-left: 2%;
+                margin-right: 3%;
+                height: 350px;
+                margin-bottom: 100px;
+            }
+            
+            user agent stylesheet div {
+            display: block;
+            unicode-bidi: isolate;
+            }
+            
+            body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+            }
+            h2 {
+                font-size: 35px;
+            }
+
+            user agent stylesheet h2 {
+                display: block;
+                font-size: 1.5em;
+                margin-block-start: 0.83em;
+                margin-block-end: 0.83em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
+                font-weight: bold;
+                unicode-bidi: isolate;
+            }
+
+        .flooed-sylhet-container {
+            text-align: center;
+        }
+            
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+        }
+                                hr {
+                                    width: 540px;
+                                    text-align: center;
+                                    color: gray;
+                                }
+        
+                                user agent stylesheet hr {
+        display: block;
+        margin-block-start: 0.5em;
+        margin-block-end: 0.5em;
+        margin-inline-start: auto;
+        margin-inline-end: auto;
+        unicode-bidi: isolate;
+        overflow: hidden;
+        border-style: inset;
+        border-width: 1px;
+ } 
+ hr {
+     width: 540px;
+     text-align: center;
+     color: gray;
+ }
+
+ user agent stylesheet hr {
+     display: block;
+     margin-block-start: 0.5em;
+     margin-block-end: 0.5em;
+     margin-inline-start: auto;
+     margin-inline-end: auto;
+     unicode-bidi: isolate;
+     overflow: hidden;
+     border-style: inset;
+     border-width: 1px;
+ }
+ .card{
+    width: 325px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow:0px 2px 4px;
+    margin: 20px;
+
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+ }
+ .continar-img{
+    height: 400px;
+    width:90%;
+    padding: 5%;
+    border-radius: 10%;
+ }
+ .intro{
+     margin-top: -45px;
+     padding: 5%;
+
+ }
+ .updates-container {
+    text-align: center;
+}
+
+user agent stylesheet div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+.updates-form {
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #ecf19e;
+    height: 140px;
+    width: 380px;
+    margin-left: 16%;
+    border-radius: 3;
+}
+
+user agent stylesheet div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.email-input {
+    margin-top: 60px;
+    height: 30px;
+    width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    background-color: #bbb8b5;
+    color: #3a3838;
+    font-weight: bold;
+}
+.subscribe-btn {
+    background-color: #e00833;
+    border-radius: 2px;
+    border: none;
+    font-weight: 600;
+    height: 32px;
+    width: 100px;
+    margin-left: -30px;
+}
+.subscribe-btn a {
+    text-decoration: none;
+    color: #FFF;
+}
+footer{
+    background-color: black;
+    height: 140px;
+    text-align: center;
+    margin-top: 70px;
+}
+.be-humbl{
+    color: crimson;
+    padding: 15px;
+    
+}
+
+footer h3 {
+    font-family: cursive;
+}
