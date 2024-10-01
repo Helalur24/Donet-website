@@ -146,6 +146,9 @@ text-align: center;
             display: block;
             unicode-bidi: isolate;
         }
+        .food-img{
+            padding: 5%;
+        }
     
         body {
             font-family: 'Poppins', sans-serif;
